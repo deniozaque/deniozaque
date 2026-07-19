@@ -1,7 +1,7 @@
 # ¡Hola! Soy Jorge García
 
 ### Sobre mí
-- Actualmente me encuentro enfocado en aprender y mejorar en: **[Ejemplo: Desarrollo Web Frontend / Python]**
+- Actualmente me encuentro enfocado en aprender y mejorar en: **[ Desarrollo Web Frontend / Python]**
 - Mi objetivo actual es: **[Crear mis primeros proyectos reales / Conseguir mi primer empleo]**
 - Me apasiona: **[La tecnología, la resolución de problemas y el diseño limpio]**
 
