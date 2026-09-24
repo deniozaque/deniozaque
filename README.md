@@ -25,4 +25,4 @@ Aquí puedes ver las herramientas que utilizo o estoy aprendiendo a usar:
 
 ### ¿Conectamos?
 - **LinkedIn:** (https://www.linkedin.com/in/jorge-garc%C3%ADa-gonz%C3%A1lez-104855367/)
-- **Correo electrónico:** [jorgegargon2007@email.com](mailto:jorgegargon2007@email.com)
+- **Correo electrónico:** [jorgegargon2007@gmail.com](mailto:jorgegargon2007@email.com)
